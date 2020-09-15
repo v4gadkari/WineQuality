@@ -1,2 +1,2 @@
 # WineQuality
-Analysis of Wine Quality based on the properties
+Predicting Wine Quality with Scikit-Learn
